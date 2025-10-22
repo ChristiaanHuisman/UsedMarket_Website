@@ -1,0 +1,33 @@
+body {
+  padding-top: 50px; /* Prevent content from hiding under navbar */
+}
+
+.hr-thick {
+  height: 4px;
+  background-color: #0d6efd;
+  border: none;
+  border-radius: 2px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+div.accordion-body {
+  background-color: #d0e4ff;
+}
+
+.featured-card {
+  transition: transform 0.3s ease;
+}
+
+.featured-card:hover {
+  transform: scale(1.03);
+}
+
+.featured-card img.card-img-top, .mylisting-card img.card-img-top {
+  height: 350px;
+  object-fit: contain;
+  width: 100%;
+  background-color: lightgray;
+}

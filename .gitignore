@@ -1,0 +1,16 @@
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Log / cache files (in case PHP or your server generates them)
+*.log
+*.tmp
+cache/
+
+# For Composer in PHP
+vendor/
+
+# If you use npm for frontend tools
+node_modules/
