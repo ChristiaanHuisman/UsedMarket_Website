@@ -1,5 +1,5 @@
 # UsedMarket Website
-A monolithic dynamic e-commerce / C-2-C website for an education project.
+A monolithic dynamic e-commerce / C-2-C website for an academic project.
 Developed with PHP, HTML, CSS, Bootstrap, JavaScript and SQL. Using Apache, MySQL and phpMyAdmin with XAMPP for testing.
 Some planning, diagrams and documentation can be found in the "extra" folder.
 
